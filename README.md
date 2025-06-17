@@ -144,7 +144,7 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 | Ebook Download                  | 1/day               | Unlimited           |
 | Challenges & Certifications     | Limited             | Full + Bonus Tokens |
 | Messaging Other Users           | 5/day               | Unlimited           |
-| Profile Ribbon & Verified Badge | ❌                   | ✅ Yes               |
+| Profile Ribbon & Verified Badge | ❌                  | ✅ Yes               |
 | Article/Blog to PDF Conversion  | 3/month (watermark) | Unlimited + Custom  |
 | Interview Prep                  | Limited Sample      | 1000+ Q\&A + Mock   |
 | Premium Avatar Frames           | ❌                   | ✅ Yes               |
