@@ -16,7 +16,7 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 
 ### **1. Ebook Download Limit:**
 
-* **Free Users:**
+* **Free Users:** <br>
   ✅ Can download **1 ebook per day**. <br>
   ❌ After that, prompted to upgrade to Premium. <br>
 
