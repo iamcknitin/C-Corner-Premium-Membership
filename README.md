@@ -51,7 +51,6 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 
 * **Premium Users:**
   ✅ **Unlimited messaging** to any user or author.
-  ✅ Priority in inbox delivery.
   ✅ Can message MVPs, editors, and top contributors.
 
 ---
@@ -116,14 +115,14 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 
 * **Premium Users:**
   ✅ Convert points into **Tokens** (redeem for gifts or cash).
-  ✅ **1.5x points bonus multiplier** on articles, blogs, videos.
+  ✅ **1 x points bonus multiplier** on articles, blogs, videos.
   ✅ Milestone bonuses (extra tokens at 10K/25K points).
 
 | Contribution Type | Points | Tokens for Premium |
 | ----------------- | ------ | ------------------ |
-| Article/Blog      | 500    | 1 Token            |
-| Video             | 800    | 2 Tokens           |
-| Snippet/Forum     | 100    | 1 Token            |
+| Article/Blog      | 100    | 1 Token            |
+| Video             | 500    | 2 Tokens           |
+| Forum             | 1      | 1 Token            |
 
 ---
 
@@ -135,10 +134,6 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 
 * **Premium Users:**
   ✅ **Unlimited SharpGPT queries**.
-  ✅ AI-powered **code generation, error resolution, design suggestions**.
-  ✅ Auto-suggestions in Blog/Article Editor.
-  ✅ AI Code Reviewer — optimize your code before publishing.
-  ✅ Future: **SharpGPT in VS Code, voice chat (Premium Pro)**.
 
 ---
 
@@ -151,7 +146,7 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 | Messaging Other Users           | 5/day               | Unlimited           |
 | Profile Ribbon & Verified Badge | ❌                   | ✅ Yes               |
 | Article/Blog to PDF Conversion  | 3/month (watermark) | Unlimited + Custom  |
-| Interview Prep Hub              | Limited Sample      | 1000+ Q\&A + Mock   |
+| Interview Prep                  | Limited Sample      | 1000+ Q\&A + Mock   |
 | Premium Avatar Frames           | ❌                   | ✅ Yes               |
 | Points to Tokens Conversion     | ❌                   | ✅ Yes (1.5x points) |
 | SharpGPT AI Assistant           | 5 queries/day       | Unlimited           |
