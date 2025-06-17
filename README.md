@@ -20,103 +20,103 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
   ✅ Can download **1 ebook per day**. <br>
   ❌ After that, prompted to upgrade to Premium. <br>
 
-* **Premium Users:**
+* **Premium Users:** <br>
   ✅ **Unlimited ebook downloads.** <br>
   ✅ Download without restrictions or limits. <br>
   ✅ Exclusive early access to newly launched ebooks. <br>
 
-**Upgrade Prompt Example:**
+**Upgrade Prompt Example:** <br>
 
 > "Enjoy unlimited technical ebooks without daily limits — unlock Premium Membership today!"
 
 ---
 
-### **2. Challenges & Certifications Integration:**
+### **2. Challenges & Certifications Integration:** <br>
 
-* **Free Users:**
-  ✅ Can attempt basic certifications & coding challenges.
-  ❌ No access to Premium-only certifications or rewards.
-
-* **Premium Users:**
-  ✅ Unlock **exclusive certifications** (Advanced .NET, Azure DevOps, Kubernetes).
-  ✅ Get **token rewards** on successful challenge completion.
-  ✅ Certification badges displayed on profile (increases profile trust).
-
----
-
-### **3. Messaging System Enhancement:**
-
-* **Free Users:**
-  ✅ Limited messaging (5 messages/day).
-
-* **Premium Users:**
-  ✅ **Unlimited messaging** to any user or author.
-  ✅ Can message MVPs, editors, and top contributors.
+* **Free Users:** <br>
+  ✅ Can attempt basic certifications & coding challenges. <br>
+  ❌ No access to Premium-only certifications or rewards. <br>
+ 
+* **Premium Users:** <br>
+  ✅ Unlock **exclusive certifications** (Advanced .NET, Azure DevOps, Kubernetes). <br>
+  ✅ Get **token rewards** on successful challenge completion.  <br>
+  ✅ Certification badges displayed on profile (increases profile trust). <br>
 
 ---
 
-### **4. Profile Premium Ribbon & Verified Check:**
+### **3. Messaging System Enhancement:** <br>
 
-* **Free Users:**
-  ✅ No badge or ribbon.
+* **Free Users:** <br>
+  ✅ Limited messaging (5 messages/day). <br>
 
-* **Premium Users:**
-  ✅ **Golden “Premium” Ribbon** on profile picture.
-  ✅ **Blue Verified Checkmark** (in forums, articles, comments).
-  ✅ Appear on **Premium Member leaderboard**.
-
----
-
-### **5. Convert Article/Blog to PDF:**
-
-* **Free Users:**
-  ✅ **3 PDF downloads/month** with watermark.
-
-* **Premium Users:**
-  ✅ **Unlimited PDF downloads**.
-  ✅ **No watermark**.
-  ✅ Can customize header/footer (Author name, Logo).
-  ✅ Convert any article/blog/forum answer to PDF.
+* **Premium Users:** <br>
+  ✅ **Unlimited messaging** to any user or author. <br>
+  ✅ Can message MVPs, editors, and top contributors. <br>
 
 ---
 
-### **6. Interview Preparation Section:**
+### **4. Profile Premium Ribbon & Verified Check:** <br>
 
-* **Free Users:**
-  ✅ Limited access — 10-20 sample Q\&As per topic.
-  ❌ No system design kits or mock interview booking.
+* **Free Users:** <br>
+  ✅ No badge or ribbon. <br>
 
-* **Premium Users:**
-  ✅ Full access to **1000+ real interview questions** (C#, ASP.NET, Azure, DevOps).
-  ✅ **Mock interview booking** with industry experts.
-  ✅ **Company-wise Q\&A sets** (Microsoft, TCS, Infosys, etc.).
-  ✅ **Downloadable PDFs & system design kits** (case studies, diagrams).
-  ✅ Personalized **Interview Readiness Score**.
+* **Premium Users:** <br>
+  ✅ **Golden “Premium” Ribbon** on profile picture. <br>
+  ✅ **Blue Verified Checkmark** (in forums, articles, comments). <br>
+  ✅ Appear on **Premium Member leaderboard**. <br>
 
 ---
 
-### **7. Premium Avatar Feature:**
+### **5. Convert Article/Blog to PDF:** <br>
 
-* **Free Users:**
-  ✅ Default avatar only.
+* **Free Users:** <br>
+  ✅ **3 PDF downloads/month** with watermark. <br>
 
-* **Premium Users:**
-  ✅ Choose exclusive **Golden, Diamond, or Animated Frames**.
-  ✅ Seasonal or event-themed frames.
-  ✅ Top Premium Contributor glowing frames.
-  ✅ Profile **theme customization**.
+* **Premium Users:** <br>
+  ✅ **Unlimited PDF downloads**. <br>
+  ✅ **No watermark**. <br>
+  ✅ Can customize header/footer (Author name, Logo). <br>
+  ✅ Convert any article/blog/forum answer to PDF. <br>
 
 ---
 
-### **8. Points & Token Conversion:**
+### **6. Interview Preparation Section:** <br>
 
-* **Free Users:**
-  ✅ Earn points — cannot convert to tokens or cash.
+* **Free Users:** <br>
+  ✅ Limited access — 10-20 sample Q\&As per topic. <br>
+  ❌ No system design kits or mock interview booking. <br>
 
-* **Premium Users:**
-  ✅ Convert points into **Tokens** (redeem for gifts or cash).
-  ✅ **1 x points bonus multiplier** on articles, blogs, videos.
-  ✅ Milestone bonuses (extra tokens at 10K/25K points).
+* **Premium Users:** <br>
+  ✅ Full access to **1000+ real interview questions** (C#, ASP.NET, Azure, DevOps). <br>
+  ✅ **Mock interview booking** with industry experts. <br>
+  ✅ **Company-wise Q\&A sets** (Microsoft, TCS, Infosys, etc.). <br>
+  ✅ **Downloadable PDFs & system design kits** (case studies, diagrams). <br>
+  ✅ Personalized **Interview Readiness Score**. <br>
+
+---
+
+### **7. Premium Avatar Feature:** <br>
+
+* **Free Users:** <br>
+  ✅ Default avatar only. <br>
+
+* **Premium Users:** <br>
+  ✅ Choose exclusive **Golden, Diamond, or Animated Frames**. <br>
+  ✅ Seasonal or event-themed frames. <br>
+  ✅ Top Premium Contributor glowing frames. <br>
+  ✅ Profile **theme customization**. <br>
+
+---
+
+### **8. Points & Token Conversion:** <br>
+
+* **Free Users:** <br>
+  ✅ Earn points — cannot convert to tokens or cash. <br>
+
+* **Premium Users:** <br>
+  ✅ Convert points into **Tokens** (redeem for gifts or cash). <br>
+  ✅ **1 x points bonus multiplier** on articles, blogs, videos. <br>
+  ✅ Milestone bonuses (extra tokens at 10K/25K points). <br>
 
 | Contribution Type | Points | Tokens for Premium |
 | ----------------- | ------ | ------------------ |
@@ -126,18 +126,18 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 
 ---
 
-### **9. SharpGPT (AI Assistant) Access:**
+### **9. SharpGPT (AI Assistant) Access:** <br>
 
-* **Free Users:**
-  ✅ 5 queries/day only.
-  ❌ No AI-powered code generation, system design help.
+* **Free Users:** <br>
+  ✅ 5 queries/day only. <br>
+  ❌ No AI-powered code generation, system design help. <br>
 
-* **Premium Users:**
-  ✅ **Unlimited SharpGPT queries**.
+* **Premium Users:** <br>
+  ✅ **Unlimited SharpGPT queries**. <br>
 
 ---
 
-## 🔹 **Free vs Premium Feature Comparison:**
+## 🔹 **Free vs Premium Feature Comparison:** <br>
 
 | Feature                         | Free User           | Premium User        |
 | ------------------------------- | ------------------- | ------------------- |
@@ -153,26 +153,26 @@ Enhance C# Corner’s Premium Membership offering to drive higher subscriptions,
 
 ---
 
-## 🔹 **Upgrade Prompt Example:**
+## 🔹 **Upgrade Prompt Example:** <br>
 
-> "Upgrade to C# Corner Premium — Unlock unlimited ebooks, SharpGPT AI coding help, full interview prep kits, exclusive profile badges, and redeemable tokens for cash and gifts!"
-
----
-
-## 🔹 **Future Expansion Ideas:**
-
-✔ **Premium Community Events or Webinars.**
-✔ **Premium Merchandise Store using Tokens.**
+> "Upgrade to C# Corner Premium — Unlock unlimited ebooks, SharpGPT AI coding help, full interview prep kits, exclusive profile badges, and redeemable tokens for cash and gifts!" <br>
 
 ---
 
-## 🔹 **Why This Will Increase Premium Membership Sales:**
+## 🔹 **Future Expansion Ideas:** <br>
 
-✔ Strong differentiation from Free tier.
-✔ Adds practical, career-enhancing value (Interview Prep, SharpGPT).
-✔ Monetization of user contribution through Tokens.
-✔ Increased platform stickiness (Profile Ribbon, Avatar, Messaging).
-✔ Creates a premium, professional identity for active users.
+✔ **Premium Community Events or Webinars.** <br>
+✔ **Premium Merchandise Store using Tokens.** <br>
+
+---
+
+## 🔹 **Why This Will Increase Premium Membership Sales:** <br>
+
+✔ Strong differentiation from Free tier. <br>
+✔ Adds practical, career-enhancing value (Interview Prep, SharpGPT). <br>
+✔ Monetization of user contribution through Tokens. <br>
+✔ Increased platform stickiness (Profile Ribbon, Avatar, Messaging). <br>
+✔ Creates a premium, professional identity for active users. <br>
 
 ---
 
